@@ -71,27 +71,27 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| AUTH-01 | Unmapped | Pending |
-| AUTH-02 | Unmapped | Pending |
-| AUTH-03 | Unmapped | Pending |
-| LIST-01 | Unmapped | Pending |
-| LIST-02 | Unmapped | Pending |
-| LIST-03 | Unmapped | Pending |
-| LIST-04 | Unmapped | Pending |
-| IMAG-01 | Unmapped | Pending |
-| IMAG-02 | Unmapped | Pending |
-| DISC-01 | Unmapped | Pending |
-| DISC-02 | Unmapped | Pending |
-| DISC-03 | Unmapped | Pending |
-| DISC-04 | Unmapped | Pending |
-| DELV-01 | Unmapped | Pending |
-| DELV-02 | Unmapped | Pending |
-| DELV-03 | Unmapped | Pending |
+| AUTH-01 | Phase 2 | Pending |
+| AUTH-02 | Phase 2 | Pending |
+| AUTH-03 | Phase 2 | Pending |
+| LIST-01 | Phase 3 | Pending |
+| LIST-02 | Phase 3 | Pending |
+| LIST-03 | Phase 3 | Pending |
+| LIST-04 | Phase 2 | Pending |
+| IMAG-01 | Phase 4 | Pending |
+| IMAG-02 | Phase 4 | Pending |
+| DISC-01 | Phase 1 | Pending |
+| DISC-02 | Phase 1 | Pending |
+| DISC-03 | Phase 1 | Pending |
+| DISC-04 | Phase 3 | Pending |
+| DELV-01 | Phase 5 | Pending |
+| DELV-02 | Phase 1 | Pending |
+| DELV-03 | Phase 5 | Pending |
 
 **Coverage:**
 - v1 requirements: 16 total
-- Mapped to phases: 0
-- Unmapped: 16 ⚠️
+- Mapped to phases: 16
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-08-02*
