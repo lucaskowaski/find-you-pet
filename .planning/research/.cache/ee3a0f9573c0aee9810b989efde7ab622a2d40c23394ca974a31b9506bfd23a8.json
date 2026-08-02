@@ -1,0 +1,1 @@
+{"content":"Render offers free web services, but they sleep after 15 idle minutes and its filesystem is ephemeral. Its free Postgres expires after 30 days, so it is unsuitable as the durable MVP database.","source":"web","provider":"websearch","confidence":"MEDIUM","fetched_at":"2026-08-02T23:40:32.075Z","ttl":86400000,"kind":"web"}
