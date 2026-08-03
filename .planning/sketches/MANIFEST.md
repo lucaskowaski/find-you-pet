@@ -14,4 +14,4 @@ Um catálogo público acolhedor, leve e otimista para adoção. A interface usa 
 |---|------|-----------------|--------|------|
 | 001 | catalog-layout | Como organizar busca, filtros e catálogo público? | A — filtros simples no topo | layout, catalog, filters, search |
 | 002 | animal-card | Qual card facilita mais a escolha? | C — ficha acolhedora | cards, animals, hierarchy |
-| 003 | filter-feedback | Como busca e filtros respondem em cada estado? | null | interaction, filters, empty-state |
+| 003 | filter-feedback | Como busca e filtros respondem em cada estado? | A+B+C — estados complementares | interaction, filters, empty-state |
