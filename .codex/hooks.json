@@ -22,17 +22,6 @@
         ]
       }
     ],
-    "Stop": [
-      {
-        "hooks": [
-          {
-            "type": "command",
-            "command": "\"C:/Users/lucas/me/pet-site/.codex/hooks/gsd-context-monitor.cmd\"",
-            "timeout": 10
-          }
-        ]
-      }
-    ],
     "PostToolUse": [
       {
         "hooks": [
