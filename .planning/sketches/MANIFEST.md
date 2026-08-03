@@ -13,5 +13,5 @@ Um catálogo público acolhedor, leve e otimista para adoção. A interface usa 
 | # | Name | Design Question | Winner | Tags |
 |---|------|-----------------|--------|------|
 | 001 | catalog-layout | Como organizar busca, filtros e catálogo público? | A — filtros simples no topo | layout, catalog, filters, search |
-| 002 | animal-card | Qual card facilita mais a escolha? | null | cards, animals, hierarchy |
+| 002 | animal-card | Qual card facilita mais a escolha? | C — ficha acolhedora | cards, animals, hierarchy |
 | 003 | filter-feedback | Como busca e filtros respondem em cada estado? | null | interaction, filters, empty-state |
